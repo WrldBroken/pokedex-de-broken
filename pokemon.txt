@@ -1,386 +1,386 @@
-Bulbasaur|Planta/Veneno
-Ivysaur|Planta/Veneno
-Venusaur|Planta/Veneno
-Charmander|Fuego
-Charmeleon|Fuego
-Charizard|Fuego/Volador
-Squirtle|Agua
-Wartortle|Agua
-Blastoise|Agua
-Caterpie|Bicho
-Metapod|Bicho
-Butterfree|Bicho/Volador
-Weedle|Bicho/Veneno
-Kakuna|Bicho/Veneno
-Beedrill|Bicho/Veneno
-Pidgey|Normal/Volador
-Pidgeotto|Normal/Volador
-Pidgeot|Normal/Volador
-Rattata|Normal
-Raticate|Normal
-Spearow|Normal/Volador
-Fearow|Normal/Volador
-Ekans|Veneno
-Arbok|Veneno
-Pikachu|Eléctrico
-Raichu|Eléctrico
-Sandshrew|Tierra
-Sandslash|Tierra
-Nidoran♀|Veneno
-Nidorina|Veneno
-Nidoqueen|Veneno/Tierra
-Nidoran♂|Veneno
-Nidorino|Veneno
-Nidoking|Veneno/Tierra
-Clefairy|Normal
-Clefable|Normal
-Vulpix|Fuego
-Ninetales|Fuego
-Jigglypuff|Normal
-Wigglytuff|Normal
-Zubat|Veneno/Volador
-Golbat|Veneno/Volador
-Oddish|Planta/Veneno
-Gloom|Planta/Veneno
-Vileplume|Planta/Veneno
-Paras|Bicho/Planta
-Parasect|Bicho/Planta
-Venonat|Bicho/Veneno
-Venomoth|Bicho/Veneno
-Diglett|Tierra
-Dugtrio|Tierra
-Meowth|Normal
-Persian|Normal
-Psyduck|Agua
-Golduck|Agua
-Mankey|Lucha
-Primeape|Lucha
-Growlithe|Fuego
-Arcanine|Fuego
-Poliwag|Agua
-Poliwhirl|Agua
-Poliwrath|Agua/Lucha
-Abra|Psíquico
-Kadabra|Psíquico
-Alakazam|Psíquico
-Machop|Lucha
-Machoke|Lucha
-Machamp|Lucha
-Bellsprout|Planta/Veneno
-Weepinbell|Planta/Veneno
-Victreebel|Planta/Veneno
-Tentacool|Agua/Veneno
-Tentacruel|Agua/Veneno
-Geodude|Roca/Tierra
-Graveler|Roca/Tierra
-Golem|Roca/Tierra
-Ponyta|Fuego
-Rapidash|Fuego
-Slowpoke|Agua/Psíquico
-Slowbro|Agua/Psíquico
-Magnemite|Eléctrico/Acero
-Magneton|Eléctrico/Acero
-Farfetch'd|Normal/Volador
-Doduo|Normal/Volador
-Dodrio|Normal/Volador
-Seel|Agua
-Dewgong|Agua/Hielo
-Grimer|Veneno
-Muk|Veneno
-Shellder|Agua
-Cloyster|Agua/Hielo
-Gastly|Fantasma/Veneno
-Haunter|Fantasma/Veneno
-Gengar|Fantasma/Veneno
-Onix|Roca/Tierra
-Drowzee|Psíquico
-Hypno|Psíquico
-Krabby|Agua
-Kingler|Agua
-Voltorb|Eléctrico
-Electrode|Eléctrico
-Exeggcute|Planta/Psíquico
-Exeggutor|Planta/Psíquico
-Cubone|Tierra
-Marowak|Tierra
-Hitmonlee|Lucha
-Hitmonchan|Lucha
-Lickitung|Normal
-Koffing|Veneno
-Weezing|Veneno
-Rhyhorn|Tierra/Roca
-Rhydon|Tierra/Roca
-Chansey|Normal
-Tangela|Planta
-Kangaskhan|Normal
-Horsea|Agua
-Seadra|Agua
-Goldeen|Agua
-Seaking|Agua
-Staryu|Agua
-Starmie|Agua/Psíquico
-Mr. Mime|Psíquico
-Scyther|Bicho/Volador
-Jynx|Hielo/Psíquico
-Electabuzz|Eléctrico
-Magmar|Fuego
-Pinsir|Bicho
-Tauros|Normal
-Magikarp|Agua
-Gyarados|Agua/Volador
-Lapras|Agua/Hielo
-Ditto|Normal
-Eevee|Normal
-Vaporeon|Agua
-Jolteon|Eléctrico
-Flareon|Fuego
-Porygon|Normal
-Omanyte|Roca/Agua
-Omastar|Roca/Agua
-Kabuto|Roca/Agua
-Kabutops|Roca/Agua
-Aerodactyl|Roca/Volador
-Snorlax|Normal
-Articuno|Hielo/Volador
-Zapdos|Eléctrico/Volador
-Moltres|Fuego/Volador
-Dratini|Dragón
-Dragonair|Dragón
-Dragonite|Dragón/Volador
-Mewtwo|Psíquico
-Mew|Psíquico
-Chikorita|Planta
-Bayleef|Planta
-Meganium|Planta
-Cyndaquil|Fuego
-Quilava|Fuego
-Typhlosion|Fuego
-Totodile|Agua
-Croconaw|Agua
-Feraligatr|Agua
-Sentret|Normal
-Furret|Normal
-Hoothoot|Normal/Volador
-Noctowl|Normal/Volador
-Ledyba|Bicho/Volador
-Ledian|Bicho/Volador
-Spinarak|Bicho/Veneno
-Ariados|Bicho/Veneno
-Crobat|Veneno/Volador
-Chinchou|Agua/Eléctrico
-Lanturn|Agua/Eléctrico
-Pichu|Eléctrico
-Cleffa|Normal
-Igglybuff|Normal
-Togepi|Normal
-Togetic|Normal/Volador
-Natu|Psíquico/Volador
-Xatu|Psíquico/Volador
-Mareep|Eléctrico
-Flaaffy|Eléctrico
-Ampharos|Eléctrico
-Bellossom|Planta
-Marill|Agua
-Azumarill|Agua
-Sudowoodo|Roca
-Politoed|Agua
-Hoppip|Planta/Volador
-Skiploom|Planta/Volador
-Jumpluff|Planta/Volador
-Aipom|Normal
-Sunkern|Planta
-Sunflora|Planta
-Yanma|Bicho/Volador
-Wooper|Agua/Tierra
-Quagsire|Agua/Tierra
-Espeon|Psíquico
-Umbreon|Siniestro
-Murkrow|Siniestro/Volador
-Slowking|Agua/Psíquico
-Misdreavus|Fantasma
-Unown|Psíquico
-Wobbuffet|Psíquico
-Girafarig|Normal/Psíquico
-Pineco|Bicho
-Forretress|Bicho/Acero
-Dunsparce|Normal
-Gligar|Tierra/Volador
-Steelix|Acero/Tierra
-Snubbull|Normal
-Granbull|Normal
-Qwilfish|Agua/Veneno
-Scizor|Bicho/Acero
-Shuckle|Bicho/Roca
-Heracross|Bicho/Lucha
-Sneasel|Siniestro/Hielo
-Teddiursa|Normal
-Ursaring|Normal
-Slugma|Fuego
-Magcargo|Fuego/Roca
-Swinub|Hielo/Tierra
-Piloswine|Hielo/Tierra
-Corsola|Agua/Roca
-Remoraid|Agua
-Octillery|Agua
-Delibird|Hielo/Volador
-Mantine|Agua/Volador
-Skarmory|Acero/Volador
-Houndour|Siniestro/Fuego
-Houndoom|Siniestro/Fuego
-Kingdra|Agua/Dragón
-Phanpy|Tierra
-Donphan|Tierra
-Porygon2|Normal
-Stantler|Normal
-Smeargle|Normal
-Tyrogue|Lucha
-Hitmontop|Lucha
-Smoochum|Hielo/Psíquico
-Elekid|Eléctrico
-Magby|Fuego
-Miltank|Normal
-Blissey|Normal
-Raikou|Eléctrico
-Entei|Fuego
-Suicune|Agua
-Larvitar|Roca/Tierra
-Pupitar|Roca/Tierra
-Tyranitar|Roca/Siniestro
-Lugia|Psíquico/Volador
-Ho-Oh|Fuego/Volador
-Celebi|Psíquico/Planta
-Treecko|Planta
-Grovyle|Planta
-Sceptile|Planta
-Torchic|Fuego
-Combusken|Fuego/Lucha
-Blaziken|Fuego/Lucha
-Mudkip|Agua
-Marshtomp|Agua/Tierra
-Swampert|Agua/Tierra
-Poochyena|Siniestro
-Mightyena|Siniestro
-Zigzagoon|Normal
-Linoone|Normal
-Wurmple|Bicho
-Silcoon|Bicho
-Beautifly|Bicho/Volador
-Cascoon|Bicho
-Dustox|Bicho/Veneno
-Lotad|Agua/Planta
-Lombre|Agua/Planta
-Ludicolo|Agua/Planta
-Seedot|Planta
-Nuzleaf|Planta/Siniestro
-Shiftry|Planta/Siniestro
-Taillow|Normal/Volador
-Swellow|Normal/Volador
-Wingull|Agua/Volador
-Pelipper|Agua/Volador
-Ralts|Psíquico
-Kirlia|Psíquico
-Gardevoir|Psíquico
-Surskit|Bicho/Agua
-Masquerain|Bicho/Volador
-Shroomish|Planta
-Breloom|Planta/Lucha
-Slakoth|Normal
-Vigoroth|Normal
-Slaking|Normal
-Nincada|Bicho/Tierra
-Ninjask|Bicho/Volador
-Shedinja|Bicho/Fantasma
-Whismur|Normal
-Loudred|Normal
-Exploud|Normal
-Makuhita|Lucha
-Hariyama|Lucha
-Azurill|Normal
-Nosepass|Roca
-Skitty|Normal
-Delcatty|Normal
-Sableye|Siniestro/Fantasma
-Mawile|Acero
-Aron|Acero/Roca
-Lairon|Acero/Roca
-Aggron|Acero/Roca
-Meditite|Lucha/Psíquico
-Medicham|Lucha/Psíquico
-Electrike|Eléctrico
-Manectric|Eléctrico
-Plusle|Eléctrico
-Minun|Eléctrico
-Volbeat|Bicho
-Illumise|Bicho
-Roselia|Planta/Veneno
-Gulpin|Veneno
-Swalot|Veneno
-Carvanha|Agua/Siniestro
-Sharpedo|Agua/Siniestro
-Wailmer|Agua
-Wailord|Agua
-Numel|Fuego/Tierra
-Camerupt|Fuego/Tierra
-Torkoal|Fuego
-Spoink|Psíquico
-Grumpig|Psíquico
-Spinda|Normal
-Trapinch|Tierra
-Vibrava|Tierra/Dragón
-Flygon|Tierra/Dragón
-Cacnea|Planta
-Cacturne|Planta/Siniestro
-Swablu|Normal/Volador
-Altaria|Dragón/Volador
-Zangoose|Normal
-Seviper|Veneno
-Lunatone|Roca/Psíquico
-Solrock|Roca/Psíquico
-Barboach|Agua/Tierra
-Whiscash|Agua/Tierra
-Corphish|Agua
-Crawdaunt|Agua/Siniestro
-Baltoy|Tierra/Psíquico
-Claydol|Tierra/Psíquico
-Lileep|Roca/Planta
-Cradily|Roca/Planta
-Anorith|Roca/Bicho
-Armaldo|Roca/Bicho
-Feebas|Agua
-Milotic|Agua
-Castform|Normal
-Kecleon|Normal
-Shuppet|Fantasma
-Banette|Fantasma
-Duskull|Fantasma
-Dusclops|Fantasma
-Tropius|Planta/Volador
-Chimecho|Psíquico
-Absol|Siniestro
-Wynaut|Psíquico
-Snorunt|Hielo
-Glalie|Hielo
-Spheal|Hielo/Agua
-Sealeo|Hielo/Agua
-Walrein|Hielo/Agua
-Clamperl|Agua
-Huntail|Agua
-Gorebyss|Agua
-Relicanth|Agua/Roca
-Luvdisc|Agua
-Bagon|Dragón
-Shelgon|Dragón
-Salamence|Dragón/Volador
-Beldum|Acero/Psíquico
-Metang|Acero/Psíquico
-Metagross|Acero/Psíquico
-Regirock|Roca
-Regice|Hielo
-Registeel|Acero
-Latias|Dragón/Psíquico
-Latios|Dragón/Psíquico
-Kyogre|Agua
-Groudon|Tierra
-Rayquaza|Dragón/Volador
-Jirachi|Acero/Psíquico
-Deoxys|Psíquico
+001 | Bulbasaur | Planta / Veneno
+002 | Ivysaur | Planta / Veneno
+003 | Venusaur | Planta / Veneno
+004 | Charmander | Fuego
+005 | Charmeleon | Fuego
+006 | Charizard | Fuego / Volador
+007 | Squirtle | Agua
+008 | Wartortle | Agua
+009 | Blastoise | Agua
+010 | Caterpie | Bicho
+011 | Metapod | Bicho
+012 | Butterfree | Bicho / Volador
+013 | Weedle | Bicho / Veneno
+014 | Kakuna | Bicho / Veneno
+015 | Beedrill | Bicho / Veneno
+016 | Pidgey | Normal / Volador
+017 | Pidgeotto | Normal / Volador
+018 | Pidgeot | Normal / Volador
+019 | Rattata | Normal
+020 | Raticate | Normal
+021 | Spearow | Normal / Volador
+022 | Fearow | Normal / Volador
+023 | Ekans | Veneno
+024 | Arbok | Veneno
+025 | Pikachu | Eléctrico
+026 | Raichu | Eléctrico
+027 | Sandshrew | Tierra
+028 | Sandslash | Tierra
+029 | Nidoran♀ | Veneno
+030 | Nidorina | Veneno
+031 | Nidoqueen | Veneno / Tierra
+032 | Nidoran♂ | Veneno
+033 | Nidorino | Veneno
+034 | Nidoking | Veneno / Tierra
+035 | Clefairy | Hada
+036 | Clefable | Hada
+037 | Vulpix | Fuego
+038 | Ninetales | Fuego
+039 | Jigglypuff | Normal / Hada
+040 | Wigglytuff | Normal / Hada
+041 | Zubat | Veneno / Volador
+042 | Golbat | Veneno / Volador
+043 | Oddish | Planta / Veneno
+044 | Gloom | Planta / Veneno
+045 | Vileplume | Planta / Veneno
+046 | Paras | Bicho / Planta
+047 | Parasect | Bicho / Planta
+048 | Venonat | Bicho / Veneno
+049 | Venomoth | Bicho / Veneno
+050 | Diglett | Tierra
+051 | Dugtrio | Tierra
+052 | Meowth | Normal
+053 | Persian | Normal
+054 | Psyduck | Agua
+055 | Golduck | Agua
+056 | Mankey | Lucha
+057 | Primeape | Lucha
+058 | Growlithe | Fuego
+059 | Arcanine | Fuego
+060 | Poliwag | Agua
+061 | Poliwhirl | Agua
+062 | Poliwrath | Agua / Lucha
+063 | Abra | Psíquico
+064 | Kadabra | Psíquico
+065 | Alakazam | Psíquico
+066 | Machop | Lucha
+067 | Machoke | Lucha
+068 | Machamp | Lucha
+069 | Bellsprout | Planta / Veneno
+070 | Weepinbell | Planta / Veneno
+071 | Victreebel | Planta / Veneno
+072 | Tentacool | Agua / Veneno
+073 | Tentacruel | Agua / Veneno
+074 | Geodude | Roca / Tierra
+075 | Graveler | Roca / Tierra
+076 | Golem | Roca / Tierra
+077 | Ponyta | Fuego
+078 | Rapidash | Fuego
+079 | Slowpoke | Agua / Psíquico
+080 | Slowbro | Agua / Psíquico
+081 | Magnemite | Eléctrico / Acero
+082 | Magneton | Eléctrico / Acero
+083 | Farfetch'd | Normal / Volador
+084 | Doduo | Normal / Volador
+085 | Dodrio | Normal / Volador
+086 | Seel | Agua
+087 | Dewgong | Agua / Hielo
+088 | Grimer | Veneno
+089 | Muk | Veneno
+090 | Shellder | Agua
+091 | Cloyster | Agua / Hielo
+092 | Gastly | Fantasma / Veneno
+093 | Haunter | Fantasma / Veneno
+094 | Gengar | Fantasma / Veneno
+095 | Onix | Roca / Tierra
+096 | Drowzee | Psíquico
+097 | Hypno | Psíquico
+098 | Krabby | Agua
+099 | Kingler | Agua
+100 | Voltorb | Eléctrico
+101 | Electrode | Eléctrico
+102 | Exeggcute | Planta / Psíquico
+103 | Exeggutor | Planta / Psíquico
+104 | Cubone | Tierra
+105 | Marowak | Tierra
+106 | Hitmonlee | Lucha
+107 | Hitmonchan | Lucha
+108 | Lickitung | Normal
+109 | Koffing | Veneno
+110 | Weezing | Veneno
+111 | Rhyhorn | Tierra / Roca
+112 | Rhydon | Tierra / Roca
+113 | Chansey | Normal
+114 | Tangela | Planta
+115 | Kangaskhan | Normal
+116 | Horsea | Agua
+117 | Seadra | Agua
+118 | Goldeen | Agua
+119 | Seaking | Agua
+120 | Staryu | Agua
+121 | Starmie | Agua / Psíquico
+122 | Mr. Mime | Psíquico / Hada
+123 | Scyther | Bicho / Volador
+124 | Jynx | Hielo / Psíquico
+125 | Electabuzz | Eléctrico
+126 | Magmar | Fuego
+127 | Pinsir | Bicho
+128 | Tauros | Normal
+129 | Magikarp | Agua
+130 | Gyarados | Agua / Volador
+131 | Lapras | Agua / Hielo
+132 | Ditto | Normal
+133 | Eevee | Normal
+134 | Vaporeon | Agua
+135 | Jolteon | Eléctrico
+136 | Flareon | Fuego
+137 | Porygon | Normal
+138 | Omanyte | Roca / Agua
+139 | Omastar | Roca / Agua
+140 | Kabuto | Roca / Agua
+141 | Kabutops | Roca / Agua
+142 | Aerodactyl | Roca / Volador
+143 | Snorlax | Normal
+144 | Articuno | Hielo / Volador
+145 | Zapdos | Eléctrico / Volador
+146 | Moltres | Fuego / Volador
+147 | Dratini | Dragón
+148 | Dragonair | Dragón
+149 | Dragonite | Dragón / Volador
+150 | Mewtwo | Psíquico
+151 | Mew | Psíquico
+152 | Chikorita | Planta
+153 | Bayleef | Planta
+154 | Meganium | Planta
+155 | Cyndaquil | Fuego
+156 | Quilava | Fuego
+157 | Typhlosion | Fuego
+158 | Totodile | Agua
+159 | Croconaw | Agua
+160 | Feraligatr | Agua
+161 | Sentret | Normal
+162 | Furret | Normal
+163 | Hoothoot | Normal / Volador
+164 | Noctowl | Normal / Volador
+165 | Ledyba | Bicho / Volador
+166 | Ledian | Bicho / Volador
+167 | Spinarak | Bicho / Veneno
+168 | Ariados | Bicho / Veneno
+169 | Crobat | Veneno / Volador
+170 | Chinchou | Agua / Eléctrico
+171 | Lanturn | Agua / Eléctrico
+172 | Pichu | Eléctrico
+173 | Cleffa | Hada
+174 | Igglybuff | Normal / Hada
+175 | Togepi | Hada
+176 | Togetic | Hada / Volador
+177 | Natu | Psíquico / Volador
+178 | Xatu | Psíquico / Volador
+179 | Mareep | Eléctrico
+180 | Flaaffy | Eléctrico
+181 | Ampharos | Eléctrico
+182 | Bellossom | Planta
+183 | Marill | Agua / Hada
+184 | Azumarill | Agua / Hada
+185 | Sudowoodo | Roca
+186 | Politoed | Agua
+187 | Hoppip | Planta / Volador
+188 | Skiploom | Planta / Volador
+189 | Jumpluff | Planta / Volador
+190 | Aipom | Normal
+191 | Sunkern | Planta
+192 | Sunflora | Planta
+193 | Yanma | Bicho / Volador
+194 | Wooper | Agua / Tierra
+195 | Quagsire | Agua / Tierra
+196 | Espeon | Psíquico
+197 | Umbreon | Siniestro
+198 | Murkrow | Siniestro / Volador
+199 | Slowking | Agua / Psíquico
+200 | Misdreavus | Fantasma
+201 | Unown | Psíquico
+202 | Wobbuffet | Psíquico
+203 | Girafarig | Normal / Psíquico
+204 | Pineco | Bicho
+205 | Forretress | Bicho / Acero
+206 | Dunsparce | Normal
+207 | Gligar | Tierra / Volador
+208 | Steelix | Acero / Tierra
+209 | Snubbull | Hada
+210 | Granbull | Hada
+211 | Qwilfish | Agua / Veneno
+212 | Scizor | Bicho / Acero
+213 | Shuckle | Bicho / Roca
+214 | Heracross | Bicho / Lucha
+215 | Sneasel | Siniestro / Hielo
+216 | Teddiursa | Normal
+217 | Ursaring | Normal
+218 | Slugma | Fuego
+219 | Magcargo | Fuego / Roca
+220 | Swinub | Hielo / Tierra
+221 | Piloswine | Hielo / Tierra
+222 | Corsola | Agua / Roca
+223 | Remoraid | Agua
+224 | Octillery | Agua
+225 | Delibird | Hielo / Volador
+226 | Mantine | Agua / Volador
+227 | Skarmory | Acero / Volador
+228 | Houndour | Siniestro / Fuego
+229 | Houndoom | Siniestro / Fuego
+230 | Kingdra | Agua / Dragón
+231 | Phanpy | Tierra
+232 | Donphan | Tierra
+233 | Porygon2 | Normal
+234 | Stantler | Normal
+235 | Smeargle | Normal
+236 | Tyrogue | Lucha
+237 | Hitmontop | Lucha
+238 | Smoochum | Hielo / Psíquico
+239 | Elekid | Eléctrico
+240 | Magby | Fuego
+241 | Miltank | Normal
+242 | Blissey | Normal
+243 | Raikou | Eléctrico
+244 | Entei | Fuego
+245 | Suicune | Agua
+246 | Larvitar | Roca / Tierra
+247 | Pupitar | Roca / Tierra
+248 | Tyranitar | Roca / Siniestro
+249 | Lugia | Psíquico / Volador
+250 | Ho-Oh | Fuego / Volador
+251 | Celebi | Psíquico / Planta
+252 | Treecko | Planta
+253 | Grovyle | Planta
+254 | Sceptile | Planta
+255 | Torchic | Fuego
+256 | Combusken | Fuego / Lucha
+257 | Blaziken | Fuego / Lucha
+258 | Mudkip | Agua
+259 | Marshtomp | Agua / Tierra
+260 | Swampert | Agua / Tierra
+261 | Poochyena | Siniestro
+262 | Mightyena | Siniestro
+263 | Zigzagoon | Normal
+264 | Linoone | Normal
+265 | Wurmple | Bicho
+266 | Silcoon | Bicho
+267 | Beautifly | Bicho / Volador
+268 | Cascoon | Bicho
+269 | Dustox | Bicho / Veneno
+270 | Lotad | Agua / Planta
+271 | Lombre | Agua / Planta
+272 | Ludicolo | Agua / Planta
+273 | Seedot | Planta
+274 | Nuzleaf | Planta / Siniestro
+275 | Shiftry | Planta / Siniestro
+276 | Taillow | Normal / Volador
+277 | Swellow | Normal / Volador
+278 | Wingull | Agua / Volador
+279 | Pelipper | Agua / Volador
+280 | Ralts | Psíquico / Hada
+281 | Kirlia | Psíquico / Hada
+282 | Gardevoir | Psíquico / Hada
+283 | Surskit | Bicho / Agua
+284 | Masquerain | Bicho / Volador
+285 | Shroomish | Planta
+286 | Breloom | Planta / Lucha
+287 | Slakoth | Normal
+288 | Vigoroth | Normal
+289 | Slaking | Normal
+290 | Nincada | Bicho / Tierra
+291 | Ninjask | Bicho / Volador
+292 | Shedinja | Bicho / Fantasma
+293 | Whismur | Normal
+294 | Loudred | Normal
+295 | Exploud | Normal
+296 | Makuhita | Lucha
+297 | Hariyama | Lucha
+298 | Azurill | Normal / Hada
+299 | Nosepass | Roca
+300 | Skitty | Normal
+301 | Delcatty | Normal
+302 | Sableye | Siniestro / Fantasma
+303 | Mawile | Acero / Hada
+304 | Aron | Acero / Roca
+305 | Lairon | Acero / Roca
+306 | Aggron | Acero / Roca
+307 | Meditite | Lucha / Psíquico
+308 | Medicham | Lucha / Psíquico
+309 | Electrike | Eléctrico
+310 | Manectric | Eléctrico
+311 | Plusle | Eléctrico
+312 | Minun | Eléctrico
+313 | Volbeat | Bicho
+314 | Illumise | Bicho
+315 | Roselia | Planta / Veneno
+316 | Gulpin | Veneno
+317 | Swalot | Veneno
+318 | Carvanha | Agua / Siniestro
+319 | Sharpedo | Agua / Siniestro
+320 | Wailmer | Agua
+321 | Wailord | Agua
+322 | Numel | Fuego / Tierra
+323 | Camerupt | Fuego / Tierra
+324 | Torkoal | Fuego
+325 | Spoink | Psíquico
+326 | Grumpig | Psíquico
+327 | Spinda | Normal
+328 | Trapinch | Tierra
+329 | Vibrava | Tierra / Dragón
+330 | Flygon | Tierra / Dragón
+331 | Cacnea | Planta
+332 | Cacturne | Planta / Siniestro
+333 | Swablu | Normal / Volador
+334 | Altaria | Dragón / Volador
+335 | Zangoose | Normal
+336 | Seviper | Veneno
+337 | Lunatone | Roca / Psíquico
+338 | Solrock | Roca / Psíquico
+339 | Barboach | Agua / Tierra
+340 | Whiscash | Agua / Tierra
+341 | Corphish | Agua
+342 | Crawdaunt | Agua / Siniestro
+343 | Baltoy | Tierra / Psíquico
+344 | Claydol | Tierra / Psíquico
+345 | Lileep | Roca / Planta
+346 | Cradily | Roca / Planta
+347 | Anorith | Roca / Bicho
+348 | Armaldo | Roca / Bicho
+349 | Feebas | Agua
+350 | Milotic | Agua
+351 | Castform | Normal
+352 | Kecleon | Normal
+353 | Shuppet | Fantasma
+354 | Banette | Fantasma
+355 | Duskull | Fantasma
+356 | Dusclops | Fantasma
+357 | Tropius | Planta / Volador
+358 | Chimecho | Psíquico
+359 | Absol | Siniestro
+360 | Wynaut | Psíquico
+361 | Snorunt | Hielo
+362 | Glalie | Hielo
+363 | Spheal | Hielo / Agua
+364 | Sealeo | Hielo / Agua
+365 | Walrein | Hielo / Agua
+366 | Clamperl | Agua
+367 | Huntail | Agua
+368 | Gorebyss | Agua
+369 | Relicanth | Agua / Roca
+370 | Luvdisc | Agua
+371 | Bagon | Dragón
+372 | Shelgon | Dragón
+373 | Salamence | Dragón / Volador
+374 | Beldum | Acero / Psíquico
+375 | Metang | Acero / Psíquico
+376 | Metagross | Acero / Psíquico
+377 | Regirock | Roca
+378 | Regice | Hielo
+379 | Registeel | Acero
+380 | Latias | Dragón / Psíquico
+381 | Latios | Dragón / Psíquico
+382 | Kyogre | Agua
+383 | Groudon | Tierra
+384 | Rayquaza | Dragón / Volador
+385 | Jirachi | Acero / Psíquico
+386 | Deoxys | Psíquico

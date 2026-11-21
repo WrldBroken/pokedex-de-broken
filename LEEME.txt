@@ -1,26 +1,54 @@
-POKÉDEX WEB - KANTO, JOHTO Y HOENN
+POKÉDEX DE BROKEN — Versión 2
+================================
 
-1. Extrae el ZIP.
-2. Abre index.html en Firefox, Chrome o Edge.
-3. Busca un Pokémon, filtra por región/tipo y pulsa en su tarjeta.
+Proyecto web estático con 386 Pokémon (#001–#386), organizado por Kanto, Johto y Hoenn.
+Compatible con Linux Mint, Firefox y publicación como Static Site en Render.
 
-Archivos:
-- index.html: estructura web
-- styles.css: diseño y distribución
-- pokemon-data.js: catálogo local de los 386 Pokémon y tipos según tus capturas
-- app.js: búsqueda, filtros y fichas interactivas
-- pokemon.txt: catálogo editable de nombres y tipos (fuente para generar pokemon-data.js)
+QUÉ INCLUYE
+- 386 tarjetas: búsqueda por nombre/número y filtros de región y tipo.
+- Fichas individuales: resumen (altura, peso, especie, sexo, EXP base, crianza,
+  tasa de captura, descripción en español y habilidades), estadísticas base,
+  efectividad de tipos, evoluciones y métodos de aprendizaje de movimientos.
+- Normal y shiny, enlaces compartibles como #pokemon-025, botón Anterior/Siguiente.
+- Adaptable al móvil.
+- Los datos se almacenan en el navegador (IndexedDB) después de consultarlos;
+  futuras visitas reutilizan estos datos. La primera consulta necesita Internet.
+- Tipos y tabla de efectividad modernos, incluyendo Hada.
 
-IMPORTANTE
-- Los sprites se descargan del repositorio público de sprites de PokéAPI;
-  necesitas Internet para verlos. Los nombres, números y tipos sí funcionan sin conexión.
-- Para datos generales faltantes (altura, peso y estadísticas), la web intenta
-  consultar PokéAPI con Internet. No representa la base de datos de PokéAFK.
-- Se incorporaron los datos particulares de Bulbasaur visibles en las capturas.
-  Los del resto de Pokémon se indican como pendientes para no inventar rutas,
-  recompensas, evoluciones ni estadísticas exclusivas del juego.
-- No es el código oficial de PokéAFK: es una recreación independiente basada
-  en la distribución y las capturas proporcionadas.
+IMPORTANTE SOBRE LOS DATOS
+- Información ampliada obtenida al abrir cada ficha mediante https://pokeapi.co/.
+- NO es una base de datos descargada y precargada de 386 fichas. Sin Internet,
+  los nombres y tipos están disponibles, pero la primera consulta detallada
+  requiere conexión. Los datos previamente consultados pueden permanecer en caché.
+- Movimientos por edición y método. Sus potencias/precisiones se obtienen de los
+  datos actuales de PokéAPI, que no necesariamente representan versiones históricas.
+- Evoluciones posteriores al #386 quedan fuera del catálogo y se avisa cuando corresponde.
+- Se excluyeron rutas, precios, objetos y recompensas particulares de PokéAFK.
+- No es un sitio oficial ni está asociado con Nintendo, Game Freak, The Pokémon Company
+  o PokéAFK.
 
-Siguiente mejora sugerida: completar todas las evoluciones, movimientos y
-las probabilidades específicas de PokéAFK.
+INSTALAR Y ABRIR EN LINUX MINT
+1) Extrae el ZIP.
+2) Para probar en un servidor local (recomendado):
+       cd ~/Descargas/pokedex-web
+       python3 -m http.server 8000
+   Abre http://localhost:8000 en Firefox. Para cerrar, Ctrl+C.
+3) También puedes abrir index.html directamente; algunos navegadores restringen
+   funciones de caché cuando se usa file://.
+
+ACTUALIZAR LA VERSIÓN PUBLICADA
+1) Haz una copia de seguridad de tu carpeta pokedex-web actual.
+2) Copia los archivos actualizados dentro de tu proyecto local y revísalos.
+3) Desde tu carpeta del repositorio conectado a GitHub:
+       git add .
+       git commit -m "Pokédex de Broken: fichas completas y PokéAPI"
+       git push
+4) Render Static Site publicará los cambios automáticamente si está habilitado.
+
+CONTENIDO
+index.html          Estructura y navegación
+styles.css          Diseño adaptable
+pokemon-data.js     Listado de los 386 Pokémon y sus tipos
+app.js              Lógica, PokéAPI, evoluciones y caché
+pokemon.txt         Catálogo de consulta
+LEEME.txt           Este archivo
