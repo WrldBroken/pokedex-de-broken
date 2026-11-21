@@ -1,0 +1,26 @@
+POKÉDEX WEB - KANTO, JOHTO Y HOENN
+
+1. Extrae el ZIP.
+2. Abre index.html en Firefox, Chrome o Edge.
+3. Busca un Pokémon, filtra por región/tipo y pulsa en su tarjeta.
+
+Archivos:
+- index.html: estructura web
+- styles.css: diseño y distribución
+- pokemon-data.js: catálogo local de los 386 Pokémon y tipos según tus capturas
+- app.js: búsqueda, filtros y fichas interactivas
+- pokemon.txt: catálogo editable de nombres y tipos (fuente para generar pokemon-data.js)
+
+IMPORTANTE
+- Los sprites se descargan del repositorio público de sprites de PokéAPI;
+  necesitas Internet para verlos. Los nombres, números y tipos sí funcionan sin conexión.
+- Para datos generales faltantes (altura, peso y estadísticas), la web intenta
+  consultar PokéAPI con Internet. No representa la base de datos de PokéAFK.
+- Se incorporaron los datos particulares de Bulbasaur visibles en las capturas.
+  Los del resto de Pokémon se indican como pendientes para no inventar rutas,
+  recompensas, evoluciones ni estadísticas exclusivas del juego.
+- No es el código oficial de PokéAFK: es una recreación independiente basada
+  en la distribución y las capturas proporcionadas.
+
+Siguiente mejora sugerida: completar todas las evoluciones, movimientos y
+las probabilidades específicas de PokéAFK.

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0d2045" />
+  <title>Pokédex | Kanto · Johto · Hoenn</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="pokemon-data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="landscape" aria-hidden="true"></div>
+  <main class="app-shell">
+    <header class="topbar">
+      <span class="back-icon" aria-hidden="true">❮</span>
+      <h1><span class="pokeball" aria-hidden="true">◉</span> POKÉPEDIA</h1>
+      <span class="total-count">386 Pokémon</span>
+    </header>
+    <section class="toolbar" aria-label="Buscar y filtrar Pokémon">
+      <label class="searchbox"><span>⌕</span><input id="search" type="search" placeholder="Buscar por nombre o número..." autocomplete="off" /></label>
+      <select id="region" aria-label="Filtrar por región">
+        <option value="all">Todas las regiones</option><option value="kanto">Kanto · 001–151</option><option value="johto">Johto · 152–251</option><option value="hoenn">Hoenn · 252–386</option>
+      </select>
+      <select id="type" aria-label="Filtrar por tipo"><option value="all">Todos los tipos</option></select>
+    </section>
+    <p class="results" id="results" aria-live="polite"></p>
+    <section class="pokedex-grid" id="grid" aria-label="Lista de Pokémon"></section>
+    <footer>Pokédex de consulta · Generaciones 1 a 3 · Los datos específicos de PokéAFK requieren verificación.</footer>
+  </main>
+  <div class="modal-backdrop" id="backdrop" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="detail-name">
+      <div class="modal-top"><div class="modal-brand">◉ POKÉPEDIA <span>/ Ficha Pokémon</span></div><button class="close" id="close" aria-label="Cerrar ficha">✕ Cerrar</button></div>
+      <div class="detail-body" id="detail-body"></div>
+    </div>
+  </div>
+</body>
+</html>
